@@ -1,0 +1,19 @@
+.box{
+    background-image:url(https://gimon-sukkiri.jp/wp-content/uploads/2018/05/shutterstock_375044602-e1526733686803.jpg);
+
+    text-align:center;
+    height:100vh;
+    margin:0 auto;
+    background-size:cover;
+}
+h1{
+    color:aqua;
+    text-align:center;
+}
+.content {
+    height:400px;
+}
+.content p{
+    text-align:center;
+    margin-top:400px;
+}

@@ -1,0 +1,31 @@
+h1{
+    text-align:center;
+}
+.box{
+    
+    display:flex;
+    justify-content:center;
+}
+.box-inner{
+    padding:24px 8px;
+    
+
+}
+h2{
+    text-align:center;
+    padding-top:20px;
+}
+div p{
+padding-right:30px;
+padding-left:30px;
+}
+a{
+    padding-right:30px;
+    padding-left:30px;
+}
+h3{
+    padding-left:30px;
+}
+.ff{
+    text-align:center;
+}
